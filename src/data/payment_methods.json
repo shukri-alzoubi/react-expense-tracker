@@ -1,0 +1,26 @@
+[
+    {
+        "icon" : "fa-solid fa-money-bill",
+        "key" : "Cash"
+    },
+    {
+        "icon" : "fa-solid fa-credit-card",
+        "key" : "Credit Card"
+    },
+    {
+        "icon" : "fa-solid fa-credit-card",
+        "key" : "Debit Card"
+    },
+    {
+        "icon" : "fa-solid fa-building-columns",
+        "key" : "Bank Transfer"
+    },
+    {
+        "icon" : "fa-brands fa-paypal",
+        "key" : "PayPal"
+    },
+    {
+        "icon" : "fa-brands fa-receipt",
+        "key" : "Other"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "path": "https://www.linkedin.com/in/shukri-alzoubi/",
+        "icon": "fa-brands fa-linkedin",
+        "key": "linkedin",
+        "color" : "primary"
+    },
+    {
+        "path": "https://github.com/shukri-alzoubi/",
+        "icon": "fa-brands fa-github",
+        "key": "github",
+        "color" : "secondary"
+    },
+    {
+        "path": "https://www.facebook.com/alzoubi.shukri",
+        "icon": "fa-brands fa-facebook",
+        "key": "facebook",
+        "color" : "info"
+    },
+    {
+        "path": "https://www.instagram.com/shukri.alzoubi/",
+        "icon": "fa-brands fa-instagram",
+        "key": "instagram",
+        "color" : "danger"
+    },
+    {
+        "path": "mailto:alz.shukri@gmail.com",
+        "icon": "fa-solid fa-envelope",
+        "key": "email",
+        "color" : "secondary"
+    }
+]

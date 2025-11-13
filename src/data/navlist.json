@@ -1,0 +1,32 @@
+[
+  {
+    "key": "Dashboard",
+    "icon": "fa-solid fa-chart-line",
+    "path": "/dashboard"
+  },
+  {
+    "key": "Transactions",
+    "icon": "fa-solid fa-receipt",
+    "path": "/transactions"
+  },
+  {
+    "key": "Settings",
+    "icon": "fa-solid fa-gear",
+    "path": "/settings"
+  },
+  {
+    "key": "About",
+    "icon": "fa-solid fa-circle-info",
+    "path": "/about"
+  },
+  {
+    "key": "Privacy Policy",
+    "icon": "fa-solid fa-user-shield",
+    "path": "/privacy-policy"
+  },
+  {
+    "key": "Contact",
+    "icon": "fa-solid fa-envelope",
+    "path": "/contact"
+  }
+]
